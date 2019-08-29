@@ -1,3 +1,11 @@
 body {
   background-color: #99f;
 }
+#konteiners{
+  background-color: #fff;
+  border: 10px solid #88b;
+  }
+  #konteiners div{
+    background-color: #fff;
+    border: 10px solid #0ef;
+    }
