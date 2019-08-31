@@ -14,7 +14,7 @@ class Karatavas {
         let btnJaunaSpele = document.createElement("button");
         btnJaunaSpele.innerHTML = "Jauna spēle";
         btnJaunaSpele.onclick = (evt) => {
-            //console.log(evt);
+            console.log(evt);
             this.jaunaSpele();
         }
         this.divRikjosla.appendChild(btnJaunaSpele);
